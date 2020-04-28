@@ -6,5 +6,6 @@
 }
 #canvas {
   border: 1px solid yellowgreen;
-  height: 700px;
+
+  display: block;
 }
